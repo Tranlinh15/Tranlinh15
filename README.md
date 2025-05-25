@@ -33,7 +33,4 @@
 </p>
 
 # Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://drive.google.com/file/d/1F1BVkthcWWHoHhXdrm5M68xr_6gCGdZy/view)

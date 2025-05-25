@@ -2,12 +2,12 @@
 <img align="right" width="64" src="https://github.com/TienNHM.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm TienNHM</h2>
+<h2 align="center">Hi 👋, I'm TranLinh</h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+> ✍ I am a student in the Electronic and Informatics Physical Engineering program within the Faculty of Physics - Engineering Physics at the University of Science, Vietnam National University Ho Chi Minh City  [Utop @ FPT](https://utop.io/).
 
 <br />
 

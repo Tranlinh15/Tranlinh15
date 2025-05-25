@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm TranLinh</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A young people from Vietnam 🇻🇳 </h3>
 </p>
 
 > ✍ I am a student in the Electronic and Informatics Physical Engineering program within the Faculty of Physics - Engineering Physics at the University of Science, Vietnam National University Ho Chi Minh City  [hcmus](https://hcmus.edu.vn/).

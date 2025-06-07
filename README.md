@@ -31,6 +31,13 @@
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
+<p align="center">
+  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/960px-Matlab_Logo.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png"/>
+</p>
 
+  
 # Certificates:
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://drive.google.com/file/d/1cB4FD3XkOR6f7cgd9efYhfxLQuVtfzbO/view?usp=sharing)

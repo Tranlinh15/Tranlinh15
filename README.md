@@ -18,7 +18,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="https://www.linkedin.com/in/tranvanlinh2003/" alt="Linked">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="48"/>
 </p>
 
 ## Skills:

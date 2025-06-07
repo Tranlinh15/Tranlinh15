@@ -17,7 +17,7 @@
   <a href="tranlinh111503@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="www.linkedin.com/in/tranvanlinh2003" alt="Linked">
+  <a href="https://www.linkedin.com/in/tranvanlinh2003/" alt="Linked">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="200"/>
 </p>
 

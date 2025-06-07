@@ -3,7 +3,7 @@
   <h3 align="center">From Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I am a third-years student in the Electronic Physics Engineering and Informatics program within the Faculty of Physics - Engineering Physics at the University of Science, Vietnam National University Ho Chi Minh City  [hcmus](https://hcmus.edu.vn/).
+> ✍ I am a third-years student in the Electronic Physics Engineering and Informatics program within the Faculty of Physics - Engineering Physics at the University of Science, Vietnam National University Ho Chi Minh City  [HCMUS](https://hcmus.edu.vn/).
 
 ## 📫 How to reach me:
 

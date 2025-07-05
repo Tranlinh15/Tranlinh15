@@ -25,6 +25,13 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" height= "20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/960px-Matlab_Logo.png" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png" height="48"/>
+</p>
+
 
   
 # Certificates:

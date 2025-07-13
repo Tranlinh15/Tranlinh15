@@ -3,7 +3,7 @@
   <h3 align="center">From Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I am a third-years student in the Electronic Physics Engineering and Informatics program within the Faculty of Physics - Engineering Physics at the University of Science, Vietnam National University Ho Chi Minh City  [HCMUS](https://hcmus.edu.vn/). Seeking roles in electronics, computer science, semiconductor technology, or broader STEM fields, in a dynamic and innovative environment for continuous growth.
+> ✍ I am a third-years student in the Electronic Physics Technology and Informatics program within the Faculty of Physics - Engineering Physics at the University of Science, Vietnam National University Ho Chi Minh City  [HCMUS](https://hcmus.edu.vn/). Seeking roles in electronics, computer science, semiconductor technology, or broader STEM fields, in a dynamic and innovative environment for continuous growth.
 
 ## 📫 How to reach me:
 
